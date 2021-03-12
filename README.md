@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Justin Cremer 
 
-<!--
-**justincremer/justincremer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cl
+;; About Me
 
-Here are some ideas to get you started:
+(def bio '(
+     :whoAmI                    "A heavily caffeinated [ metalHead, programmer, hacker, catLover, tunnelQueen ] with some of the best eyebrows in the game"
+     :currently-working-on      "A full stack web app for a lisp interpreter I wrote a while back, that runs on the node runtime"
+     :currently-learning        {"ASP.NET, Flutter, and Dart" :with-my-company
+                                 "Typescript, Graphql, Postgres, React, and Deno" :in-my-free-time}
+     :looking-to-collaborate-on "React, Typescript, and Flutter applications"))
+     
+(prn 
+  (cond 
+    {:looking-for-help-with "Building the perfect minecraft home"} bio))
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn 💼](https://www.linkedin.com/in/justin-cremer-97870a1b0/)
+<br/>
+[Email 📬](mailto:jacremer@live.com)
