@@ -1,4 +1,4 @@
-## Hi, I'm Justin Cremer 
+## Hi, I'm Justin
 
 ```cl
 ;; About Me
