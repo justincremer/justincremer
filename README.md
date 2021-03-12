@@ -4,7 +4,7 @@
 ;; About Me
 
 (def bio '(
-     :whoAmI                    "A heavily caffeinated [ metalHead, programmer, hacker, catLover, tunnelQueen ] with some of the best eyebrows in the game"
+     :whoAmI                    "A heavily caffeinated [  programmer, hacker, musicNerd, catLover, tunnelQueen ] with some of the best eyebrows in the game"
      :currently-working-on      "A full stack web app for a lisp interpreter I wrote a while back, that runs on the node runtime"
      :currently-learning        {"ASP.NET, Flutter, and Dart" :with-my-company
                                  "Typescript, Graphql, Postgres, React, and Deno" :in-my-free-time}
