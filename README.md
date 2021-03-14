@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Justin</h1>
-<span align="center">
-     <a href="https://www.linkedin.com/in/justin-cremer-97870a1b0" align="center">LinkedIn 💼</a>
-     <a href="mailto:jacremer@live.com" align="center">Email 📬</a>
 
-</span>
-     <h1></h1>
+<p align="center">
+     <span>
+          <a href="https://www.linkedin.com/in/justin-cremer-97870a1b0">LinkedIn 💼</a>
+          <a href="mailto:jacremer@live.com">Email 📬</a>
+     </span>
+</p>
 
 ```cl
 ;; About Me
