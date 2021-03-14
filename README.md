@@ -1,4 +1,4 @@
-## Hi, I'm Justin
+<h1 align="center">Hi, I'm Justin</h1>
 
 ```cl
 ;; About Me
