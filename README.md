@@ -10,7 +10,7 @@
 
 (def bio '(
      :whoAmI                    "A heavily caffeinated [ programmer, ethicalHacker, musicNerd, catLover ]"
-     :currently-working-on      "A full stack web app for a lisp interpreter I wrote a while back, that runs on the node runtime"
+     :currently-working-on      "A web client and api for a lisp interpreter I wrote a while back, that runs on the node runtime"
      :currently-learning        {"ASP.NET, Flutter, and Dart" :with-my-company
                                  "Typescript, Graphql, Postgres, React, and Deno" :in-my-free-time}))
      
