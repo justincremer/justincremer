@@ -9,13 +9,12 @@
 ;; About Me
 
 (def bio '(
-     :whoAmI                    "A heavily caffeinated [  programmer, hacker, musicNerd, catLover, tunnelQueen ] with some of the best eyebrows in the game"
+     :whoAmI                    "A heavily caffeinated [ programmer, ethicalHacker, musicNerd, catLover ]"
      :currently-working-on      "A full stack web app for a lisp interpreter I wrote a while back, that runs on the node runtime"
      :currently-learning        {"ASP.NET, Flutter, and Dart" :with-my-company
-                                 "Typescript, Graphql, Postgres, React, and Deno" :in-my-free-time}
-     :looking-to-collaborate-on "React, Typescript, and Flutter applications"))
+                                 "Typescript, Graphql, Postgres, React, and Deno" :in-my-free-time}))
      
-(prn 
+(print 
   (cond 
-    {:looking-for-help-with "Building the perfect minecraft home"} bio))
+    :looking-to-collaborate-on "React, Typescript, and Flutter applications" bio))
 ```
