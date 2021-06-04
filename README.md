@@ -3,6 +3,7 @@
     <a href="https://www.linkedin.com/in/justin-cremer-97870a1b0">LinkedIn</a> |
     <a href="mailto:jacremer@live.com">Email</a>
 </div>
+<br/>
 
 ```cl
 ;; About Me
