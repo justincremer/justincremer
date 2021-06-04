@@ -4,6 +4,7 @@
      <a href="https://www.linkedin.com/in/justin-cremer-97870a1b0">LinkedIn 💼</a>
      <a href="mailto:jacremer@live.com">Email 📬</a>
 </p>
+     
 ```cl
 ;; About Me
 
@@ -17,5 +18,6 @@
   (cond 
     :looking-to-collaborate-on "React, Typescript, and Flutter applications" bio))
 ```
+     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=onedark&langs_count=15" />
 </div>
