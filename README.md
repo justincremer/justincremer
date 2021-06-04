@@ -4,6 +4,8 @@
      <a href="mailto:jacremer@live.com">Email 📬</a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=onedark&langs_count=15" />
+
 
 ```cl
 ;; About Me
