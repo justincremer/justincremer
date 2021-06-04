@@ -1,12 +1,9 @@
+<div align="center">
 <h1 align="center">Hi, I'm Justin</h1>
 <p align="center">
      <a href="https://www.linkedin.com/in/justin-cremer-97870a1b0">LinkedIn 💼</a>
      <a href="mailto:jacremer@live.com">Email 📬</a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=onedark&langs_count=15" />
-
-
 ```cl
 ;; About Me
 
@@ -20,3 +17,5 @@
   (cond 
     :looking-to-collaborate-on "React, Typescript, and Flutter applications" bio))
 ```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=onedark&langs_count=15" />
+</div>
