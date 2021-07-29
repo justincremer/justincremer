@@ -5,6 +5,7 @@
     <a href="https://xiubox.io/justincremer">Portfolio</a> |
     <a href="mailto:jacremer@live.com">Email</a>
   </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=radical&langs_count=10" />
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=radical&langs_count=10)](github.com/anuraghazra/github-readme-stats)
 
