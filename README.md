@@ -6,6 +6,6 @@
     <a href="mailto:jacremer@live.com">Email</a>
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=radical&langs_count=10" />
-  
+  </br>
   <img src="https://github-readme-stats.vercel.app/api?username=justincremer&show_icons=true&theme=dark" /> 
 </div>
