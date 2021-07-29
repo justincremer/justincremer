@@ -5,10 +5,11 @@
     <a href="https://xiubox.io/justincremer">Portfolio</a> |
     <a href="mailto:jacremer@live.com">Email</a>
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=radical&langs_count=10" />
+      <a href="github.com/anuraghazra/github-readme-stats">
+  <img src="github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=radical&langs_count=10" />
+  <img src="github-readme-stats.vercel.app/api?username=justincremer&show_icons=true&theme=dark" />
+  </a>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=radical&langs_count=10)](github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=justincremer&show_icons=true&theme=dark)](github.com/anuraghazra/github-readme-stats)
+  
   
 </div>
