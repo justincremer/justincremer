@@ -13,4 +13,4 @@
 </div>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=justincremer&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iikyc&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=radical&langs_count=10)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justincremer&layout=compact&theme=radical&langs_count=10](https://github.com/anuraghazra/github-readme-stats)
